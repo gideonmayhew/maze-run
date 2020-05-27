@@ -1,0 +1,22 @@
+{
+    "name": "maze run",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.1.3",
+        "radio": "*",
+        "radio-broadcast": "*",
+        "pxt-lantern": "github:riknoll/pxt-lantern#v0.1.1",
+        "animation": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.7.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
